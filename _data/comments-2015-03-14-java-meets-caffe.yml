@@ -6,3 +6,14 @@
 #   content: |
 #     Comments are awesome; they can be written in [Markdown](http://en.wikipedia.org/wiki/Markdown)!
 
+name: Chris Nicholson
+url: https://github.com/deeplearning4j/deeplearning4j
+date: 2015-03-15
+content: |
+Hey Sam - Thanks for the shoutout. You're right to point out the gaps in the Java ecosystem. We're doing our best to fill a few of them. We've got an MVP of a command-line interface going: 
+
+    https://github.com/deeplearning4j/deeplearning4j/tree/master/deeplearning4j-cli/deeplearning4j-cli-api
+
+Great work on the Caffe Java wrappers!
+
+Chris
